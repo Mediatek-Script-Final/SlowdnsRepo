@@ -11,8 +11,8 @@ import (
 	"net"
 	"time"
 
-	"www.bamsoftware.com/git/dnstt.git/dns"
-	"www.bamsoftware.com/git/dnstt.git/turbotunnel"
+	"https://github.com/Mediatek-Script-Final/dnstt.git/dns"
+	"https://github.com/Mediatek-Script-Final/dnstt.git/turbotunnel"
 )
 
 const (
