@@ -1,4 +1,4 @@
-module www.bamsoftware.com/git/dnstt.git
+module https://github.com/Mediatek-Script-Final/dnstt
 
 go 1.11
 
