@@ -16,7 +16,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/flynn/noise"
+	"https://github.com/Mediatek-Script-Final/noise"
 )
 
 // The length of public and private keys as returned by GenerateKeypair.
