@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"www.bamsoftware.com/git/dnstt.git/dns"
+	"https://github.com/Mediatek-Script-Final/dnstt.git/dns"
 )
 
 func TestDNSNameCapacity(t *testing.T) {
