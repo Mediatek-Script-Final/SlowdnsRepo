@@ -49,10 +49,10 @@ import (
 	"time"
 
 	"github.com/xtaci/kcp-go/v5"
-	"github.com/xtaci/smux"
-	"www.bamsoftware.com/git/dnstt.git/dns"
-	"www.bamsoftware.com/git/dnstt.git/noise"
-	"www.bamsoftware.com/git/dnstt.git/turbotunnel"
+	"https://github.com/Mediatek-Script-Final/smux"
+	"https://github.com/Mediatek-Script-Final/dnstt.git/dns"
+	"https://github.com/Mediatek-Script-Final/dnstt.git/noise"
+	"https://github.com/Mediatek-Script-Final/dnstt.git/turbotunnel"
 )
 
 const (
